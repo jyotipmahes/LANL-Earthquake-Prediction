@@ -37,4 +37,6 @@ in Jupyter Notebook. In the process, we learned how to install various dependenc
 could start our machine learning experiments.
 In addition, we gained experience with SparkSQL and Spark ML on a real life
 project. More importantly, we also learned how to be patient and perseverant
-when working on real life data science projects.
+when working on real life data science projects.<br>
+
+*Check out the complete report [here](Report.pdf)*
